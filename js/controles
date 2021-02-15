@@ -1,7 +1,7 @@
 
 menu offcanvas		[items, controles]
-tolltiptext			[indicaciones]
-mensaje				[mensajes, controles]
+tolltiptext			[mensaje]
+mensaje				[mensaje, controles]
 spotlight			[mensaje, controles, botones]
 table responsiva	[cabecera, cColumnas, data, controles]
 slider				[imagenes, cadenasXimagenes, controles]
